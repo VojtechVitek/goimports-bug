@@ -1,0 +1,3 @@
+package redhat
+
+func Foo() {}
